@@ -11,7 +11,7 @@
       "jpeg": 80,
       "webp": 90
     },
-    "maxSize": 2048,
+    "maxSize": 100,
     "pbfAlias": "pbf",
     "serveAllFonts": true
   },
